@@ -12,3 +12,4 @@
 |6|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/BardsTale/cote/blob/main/6_week/solution.js)|stack과 queue 구조의 개발 기법, js에서 shift와 splice의 내부 작동 원리|
 |7|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[풀이](https://github.com/BardsTale/cote/blob/main/6_week/solution.js)|[Java](https://sabarada.tistory.com/138)와 [JS](https://woong-jae.com/javascript/220412-sort-implementation)의 배열 소팅 메소드의 내부 정렬 알고리즘과 시간 복잡도(빅O)의 종류|
 |8|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/8_week/solution.js)||
+|9|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/solution.js)||
